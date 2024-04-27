@@ -1,0 +1,47 @@
+
+
+@font-face {
+font-family: 'Montserrat-Bold';
+src: url('../fonts/Montserrat-Bold.eot');
+src: url('../fonts/Montserrat-Boldd41d.eot') format('embedded-opentype'),
+        url('../fonts/Montserrat-Bold.woff') format('woff2'),
+        url('../fonts/Montserrat-Bold.woff') format('woff'),
+        url('../fonts/Montserrat-Bold.ttf') format('truetype'),
+        url('../images/Montserrat-Bold.svg') format('svg'),
+        url('../fonts/Montserrat-Bold.otf') format('otf');
+}
+  
+@font-face {
+font-family: 'Poppins-Bold';
+src: url('../fonts/Poppins-Bold.eot');
+src: url('../fonts/Poppins-Boldd41d.eot') format('embedded-opentype'),
+        url('../fonts/Poppins-Bold.woff') format('woff2'),
+        url('../fonts/Poppins-Bold.woff') format('woff'),
+        url('../fonts/Poppins-Bold.ttf') format('truetype'),
+        url('../images/Poppins-Bold.svg') format('svg'),
+        url('../fonts/Poppins-Bold.otf') format('otf');
+}
+  
+@font-face {
+font-family: 'Poppins-Medium';
+src: url('../fonts/Poppins-Medium.eot');
+src: url('../fonts/Poppins-Mediumd41d.eot') format('embedded-opentype'),
+        url('../fonts/Poppins-Medium.woff') format('woff2'),
+        url('../fonts/Poppins-Medium.woff') format('woff'),
+        url('../fonts/Poppins-Medium.ttf') format('truetype'),
+        url('../images/Poppins-Medium.svg') format('svg'),
+        url('../fonts/Poppins-Medium.otf') format('otf');
+}
+
+@font-face {
+font-family: 'Poppins-Regular';
+src: url('../fonts/Poppins-Regular.eot');
+src: url('../fonts/Poppins-Regulard41d.eot') format('embedded-opentype'),
+        url('../fonts/Poppins-Regular.otf') format('otf'),
+        url('../images/Poppins-Regular.svg') format('svg'),
+        url('../fonts/Poppins-Regular.ttf') format('truetype'),
+        url('../fonts/Poppins-Regular.woff') format('woff'),
+        url('../fonts/Poppins-Regular.woff') format('woff2');
+}
+  
+  
